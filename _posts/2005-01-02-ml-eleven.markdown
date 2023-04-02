@@ -6,4 +6,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: mmll.png # Add image post (optional)
 ---
 Please use the "fit to page" button next to the + button. Then use the right arrow key to move to next slides. You don't need to bother with the scroll.
-<embed src="/assets/pdfs/ML_Lecture_8___Gradient_Descent.pdf" width="900px" height="600px" />
+<embed src="/assets/pdfs/ML_Lecture_11___Neural_Networks.pdf" width="900px" height="600px" />
