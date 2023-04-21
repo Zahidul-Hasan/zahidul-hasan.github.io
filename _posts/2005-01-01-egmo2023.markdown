@@ -5,7 +5,7 @@ date: 2023-04-21 05:12:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: disha.jpg # Add image post (optional)
 ---
-Bangladesh has participated for the third time and for the first time in-person in the European Girls' Math Olympiad (EGMO). Bangladesh Mathematical Olympiad Committee didn't have enough fund to send the national girls' team to EGMO 2023. So, Ipshita Bonhi and Tamanna Urmi took the initiative to gather funds. They invited me for help. Together we three started many fundraising campaigns and started contacting sponsors. After much struggle, the money was managed. With Tamanna Urmi as the leader, and me as the deputy leader, we went to Portoroz, Slovenia to participate in EGMO 2023. Our 4 contestants were:
+Bangladesh has participated for the third time and for the first time in-person in the European Girls' Math Olympiad (EGMO). Bangladesh Mathematical Olympiad Committee didn't have enough fund to send the national girls' team to EGMO 2023. So, Ipshita Bonhi and Tamanna Urmi took the initiative to gather funds. They asked me for help. Together we three started many fundraising campaigns and started contacting sponsors. After much struggle, the money was managed. With Tamanna Urmi as the leader, and me as the deputy leader, we went to Portoroz, Slovenia to participate in EGMO 2023. Our 4 contestants were:
 
 1. Nujhat Ahmed Disha - scored 36 out of 42 and received silver medal
 2. Saniva Rakib Soha - scored 19 out of 42 and received bronze medal
