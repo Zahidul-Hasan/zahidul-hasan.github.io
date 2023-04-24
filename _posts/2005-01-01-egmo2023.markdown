@@ -14,6 +14,6 @@ Bangladesh has participated for the third time and for the first time in-person 
 
 Our contestant Disha was the highest scoring silver medalist. And our team received the highest points from problem 6 which is the toughest problem in the set. 3 of the contestants solved problem 6 completely and contestant 3 got 5 points out of 7 in problem 6. Only USA and China did better than us in problem 6. No other country comes close. We are very proud of the team. All of them received medals in our first in-person EGMO. Really excited about EGMO Georgia, 2024.
 <figure>
-<img src = "/assets/img/medals.jpg" height = "50%" width = "50%" style = "display: block; margin-left: auto; margin-right: auto;"> 
+<img src = "/assets/img/medals.jpg" height = "60%" width = "60%" style = "display: block; margin-left: auto; margin-right: auto;"> 
 <center><figcaption> Team Bangladesh after the closing ceremony by the side of the Adriatic sea.</figcaption></center>
 </figure>
