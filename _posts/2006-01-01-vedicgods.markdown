@@ -3,7 +3,7 @@ layout: post
 title: "Forgotten gods and goddesses of ancient India"
 date: 2023-05-01 00:12:10 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: disha.jpg # Add image post (optional)
+img: india.jpg # Add image post (optional)
 ---
 
 Let's recall the forgotten gods and goddesses of India that are still remembered across the world.
