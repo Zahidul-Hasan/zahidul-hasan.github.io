@@ -18,7 +18,7 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/team.jpeg">
-      <img src="/assets/img/team.jpeg" alt="Cinque Terre" width="400" height="267">
+      <img src="/assets/img/team.jpeg" alt="Cinque Terre" width="800" height="525">
     </a>
     <div class="desc">With my friends after winning at Bangladesh Mathematical Olympiad in February, 2011.</div>
   </div>
@@ -28,7 +28,7 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/medals.jpg">
-      <img src="/assets/img/medals.jpg" alt="Forest" width="400" height="267">
+      <img src="/assets/img/medals.jpg" alt="Forest" width="800" height="525">
     </a>
     <div class="desc">Made some new friends in International Mathematical Olympiad 2013, Colombia.</div>
   </div>
