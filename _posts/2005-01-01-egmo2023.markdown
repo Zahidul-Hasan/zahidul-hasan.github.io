@@ -39,7 +39,7 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
     <a target="_blank" href="/assets/img/silver.jpg">
       <img src="/assets/img/silver.jpg" alt="Cinque Terre" width="800" height="525">
     </a>
-    <div class="desc"> The highest scores among silver medalists.</div>
+    <div class="desc"> The highest scorers among silver medalists.</div>
   </div>
 </div>
 
@@ -49,6 +49,6 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
     <a target="_blank" href="/assets/img/shong.jpg">
       <img src="/assets/img/shong.jpg" alt="Forest" width="800" height="525">
     </a>
-    <div class="desc">The team was received with flowers back home. </div>
+    <div class="desc">The team was received with flowers back at home. </div>
   </div>
 </div>
