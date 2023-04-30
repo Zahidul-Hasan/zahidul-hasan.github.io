@@ -20,7 +20,7 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
     <a target="_blank" href="/assets/img/team.jpeg">
       <img src="/assets/img/team.jpeg" alt="Cinque Terre" width="800" height="525">
     </a>
-    <div class="desc">With my friends after winning at Bangladesh Mathematical Olympiad in February, 2011.</div>
+    <div class="desc">The coolest team photo ever.</div>
   </div>
 </div>
 
@@ -30,6 +30,25 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
     <a target="_blank" href="/assets/img/medals.jpg">
       <img src="/assets/img/medals.jpg" alt="Forest" width="800" height="525">
     </a>
-    <div class="desc">Made some new friends in International Mathematical Olympiad 2013, Colombia.</div>
+    <div class="desc">By the side of the Adriatic sea with 4 medals and 5 models.</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/silver.jpg">
+      <img src="/assets/img/silver.jpg" alt="Cinque Terre" width="800" height="525">
+    </a>
+    <div class="desc"> The highest scores among silver medalists.</div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/shong.jpg">
+      <img src="/assets/img/shong.jpg" alt="Forest" width="800" height="525">
+    </a>
+    <div class="desc">The team was received with flowers back home. </div>
   </div>
 </div>
