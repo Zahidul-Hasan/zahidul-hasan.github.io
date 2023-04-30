@@ -6,7 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: india.jpg # Add image post (optional)
 ---
 
-Let's recall the forgotten gods and goddesses of India that are still remembered across the world.
+Let's recall the forgotten gods and goddesses of India that are still remembered across the world..
 Ushas ( ঊষা ) - The beautiful goddess of dawn. She is called Eos in Greek mythology and also the rosy-fingered goddess of dawn.
 
 Parjanya ( পার্জন্য ) - The deity of rain. He is known as Perun in the Slavic countries, Perkon in Latvia, Perkunas in Lithuania.
