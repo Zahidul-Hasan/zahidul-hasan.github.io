@@ -18,21 +18,3 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
   <img src = "/assets/img/team.jpeg" height = "60%" width = "60%" style = "display: block; margin-left: auto; margin-right: auto;"> 
 <center><figcaption> Team Bangladesh after the closing ceremony by the side of the Adriatic sea.</figcaption></center>
 </figure>
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="/assets/img/team.jpeg">
-      <img src="/assets/img/team.jpeg" alt="Cinque Terre" width="400" height="267">
-    </a>
-    <div class="desc">The super cool team photo <3 </div>
-  </div>
-</div>
-
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="/assets/img/medals.jpg">
-      <img src="/assets/img/medals.jpg" alt="Forest" width="400" height="267">
-    </a>
-    <div class="desc">After the closing ceremony by the side of the Adriatic sea.</div>
-  </div>
-</div>
