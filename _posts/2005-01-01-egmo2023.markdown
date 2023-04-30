@@ -21,7 +21,7 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/team.jpeg">
-      <img src="/assets/img/champ.jpg" alt="Cinque Terre" width="400" height="267">
+      <img src="/assets/img/team.jpeg" alt="Cinque Terre" width="400" height="267">
     </a>
     <div class="desc">The super cool team photo <3 </div>
   </div>
@@ -30,8 +30,8 @@ Our contestant Disha was the highest scoring silver medalist. And our team recei
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="/assets/img/medals.jpeg">
-      <img src="/assets/img/colombia.jpg" alt="Forest" width="400" height="267">
+    <a target="_blank" href="/assets/img/medals.jpg">
+      <img src="/assets/img/medals.jpg" alt="Forest" width="400" height="267">
     </a>
     <div class="desc">After the closing ceremony by the side of the Adriatic sea.</div>
   </div>
