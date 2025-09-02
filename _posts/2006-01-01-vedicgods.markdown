@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our paper on 3d human motion prediction was accepted at BMVC 2025"
-date: 2024-07-26 00:12:10 +0300
+date: 2025-07-26 00:12:10 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Figure1.jpg # Add image post (optional)
 ---
