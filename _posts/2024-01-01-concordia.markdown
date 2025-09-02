@@ -19,4 +19,3 @@ At Concordia, I’ll be working on projects that explore:
 I feel incredibly grateful for the opportunity to grow here — surrounded by inspiring researchers, supportive mentors, and a vibrant academic community in Montréal.
 
 This program is not just about taking courses; it’s about contributing to the broader conversation in machine learning, publishing impactful research, and preparing for the challenges ahead in academia.
-Would you like me to also draft a **shorter, more personal version** (2–3 paragraphs, more “voice of excitement”) that you could pin at the top, while keeping this longer one for detail?
